@@ -8,7 +8,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=let+me+introduce+Myself;내+소개를+할게)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=let+me+introduce+Myself;내+소개를+해볼게)](https://git.io/typing-svg)
 
 
   <hr>
