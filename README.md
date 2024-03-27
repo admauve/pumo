@@ -3,8 +3,9 @@
 </head>
 <body>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=20)
+ 
 
 ![IMG_0030](https://github.com/admauve/pumo/assets/164711657/fd8e5229-db6c-46cb-aebb-05ebf62a12a5)
 <h2 align="center">Hi こんにちは 你好。Salut 안녕!</h2>
